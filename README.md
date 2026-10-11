@@ -4,6 +4,8 @@
 
 纯 Python 标准库实现，零依赖，跨平台（Windows / Linux / macOS 均可运行）。
 
+参考：[https://www.reddit.com/r/Sekiro/comments/ba44qp/how_to_edit_your_save_file_to_fix_various_issues/](https://www.reddit.com/r/Sekiro/comments/ba44qp/how_to_edit_your_save_file_to_fix_various_issues/)
+
 ---
 
 ## 为什么需要它
